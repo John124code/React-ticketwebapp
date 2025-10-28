@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-ticketwebapp/static/css/main.cfe3d306.css",
+    "main.js": "/React-ticketwebapp/static/js/main.2c07cb49.js",
+    "index.html": "/React-ticketwebapp/index.html",
+    "main.cfe3d306.css.map": "/React-ticketwebapp/static/css/main.cfe3d306.css.map",
+    "main.2c07cb49.js.map": "/React-ticketwebapp/static/js/main.2c07cb49.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cfe3d306.css",
+    "static/js/main.2c07cb49.js"
+  ]
+}
